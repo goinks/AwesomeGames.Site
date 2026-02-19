@@ -1,6 +1,6 @@
 body {
 	background-color: black;
-	font-color: white;
+	color: white;
 }
 
 img {
@@ -10,5 +10,5 @@ img {
 }
 
 header {
-	background-color: gray;
+	background-color: silver;
 }
