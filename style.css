@@ -14,9 +14,9 @@ body {
 	background-position: center;
 }
 
-nav {
+menu {
     display: flex;
-    gap: 40px;
+    gap: 20px;
     flex-wrap: wrap;
     justify-content: center;
 }
@@ -53,4 +53,5 @@ bottomtext {
     font-size: 18px;
     text-align: center;
 }
+
 
