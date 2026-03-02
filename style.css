@@ -54,4 +54,8 @@ bottomtext {
     text-align: center;
 }
 
+sleeping {
+	display: flex;
+  justify-content: center;
+}
 
