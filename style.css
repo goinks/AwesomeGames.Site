@@ -10,6 +10,8 @@ body {
 	background-color: black;
 	color: lime;
   font-family: 'Undertale', sans-serif;
+	 font-size: 15px
+	background-position: center;
 }
 
 
@@ -36,4 +38,5 @@ nav {
     flex-wrap: wrap;
     justify-content: center;
 }
+
 
