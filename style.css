@@ -1,13 +1,17 @@
+@font-face {
+	font-family: 'Undertale';
+	src: url('undertale-font-rus-eng.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
 body {
 	background-color: black;
 	color: lime;
+  font-family: 'Undertale', sans-serif;
 }
 
-img {
-  display: block;
-  margin: auto;
-  width: 500px;
-}
 
 header {
 	background-color: #4d4d4d;
@@ -25,14 +29,11 @@ logo img {
   height: auto;
 }
 
-@font-face {
-	font-family: 'Undertale', sans-serif;
-	src: url('undertale-font-rus-eng.ttf') format('truetype');
-	font-weight: normal;
-	font-style: normal;
-	font-display: swap;
+
+nav {
+    display: flex;
+    gap: 40px;
+    flex-wrap: wrap;
+    justify-content: center;
 }
-
-
-
 
