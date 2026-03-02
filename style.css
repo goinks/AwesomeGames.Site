@@ -26,12 +26,13 @@ logo img {
 }
 
 @font-face {
-	font-family: 'Undertale';
+	font-family: 'Undertale', sans-serif;
 	src: url('undertale-font-rus-eng.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap;
 }
+
 
 
 
