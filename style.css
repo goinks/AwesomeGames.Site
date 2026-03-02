@@ -14,10 +14,6 @@ body {
 	background-position: center;
 }
 
-header {
-	background-color: #4d4d4d;
-}
-
 nav {
     display: flex;
     gap: 40px;
@@ -57,3 +53,4 @@ bottomtext {
     font-size: 18px;
     text-align: center;
 }
+
