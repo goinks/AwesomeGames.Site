@@ -19,6 +19,8 @@ menu {
     gap: 20px;
     flex-wrap: wrap;
     justify-content: center;
+	align-items: center;
+	height: 60px;
 }
 
 
@@ -58,4 +60,5 @@ sleeping {
 	display: flex;
   justify-content: center;
 }
+
 
