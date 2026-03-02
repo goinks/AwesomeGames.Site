@@ -8,7 +8,7 @@
 
 body {
 	background-color: black;
-	color: lime;
+	color: white;
   font-family: 'Undertale', sans-serif;
   font-size: 15px
 	background-position: center;
@@ -60,5 +60,6 @@ sleeping {
 	display: flex;
   justify-content: center;
 }
+
 
 
