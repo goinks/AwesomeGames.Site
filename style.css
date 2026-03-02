@@ -13,3 +13,14 @@ header {
 	background-color: #4d4d4d;
 
 }
+
+logo {
+  display: flex;
+  justify-content: center;
+  padding: 20px 0 10px 0;
+}
+
+logo img {
+  max-width: 100;
+  height: auto;
+}
